@@ -1,7 +1,9 @@
+/* body style */
 body {
   background-color: rgb(151, 229, 240);
 }
 
+/* nav bar style */
 nav {
   text-align: center;
   text-transform: uppercase;
@@ -10,29 +12,35 @@ nav {
   padding: 1em;
 }
 
+/* link style */
 a {
   color:brown;
 }
 
+/* link visited style */
 a:visited {
   color:darkslateblue;
 }
 
+/* h1 style */
 h1 {
   text-align: center;
   text-decoration: underline;
 }
 
+/* article style */
 article {
   margin-bottom: 2em;
 }
 
+/* list item style */
 li {
   font-weight: 1000;
   font-size: larger;
   margin-bottom: .5em;
 }
 
+/* image style */
 img {
   border: 1px solid black;
   box-shadow: 10px 10px 8px gray;
