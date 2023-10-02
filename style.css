@@ -8,18 +8,20 @@ nav {
   text-align: center;
   text-transform: uppercase;
   background-color:black;
-  color:azure;
+  color:white;
   padding: 1em;
+  font-weight: 1000;
 }
 
 /* link style */
 a {
-  color:brown;
+  color:gold;
+  margin-right: 1em;
 }
 
 /* link visited style */
 a:visited {
-  color:darkslateblue;
+  color:cornflowerblue;
 }
 
 /* h1 style */
