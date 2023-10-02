@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(151, 229, 240);
+}
+
+nav {
+  text-align: center;
+  text-transform: uppercase;
+  background-color:black;
+  color:azure;
+  padding: 1em;
+}
+
+a {
+  color:brown;
+}
+
+a:visited {
+  color:darkslateblue;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+article {
+  margin-bottom: 2em;
+}
+
+li {
+  font-weight: 1000;
+  font-size: larger;
+  margin-bottom: .5em;
+}
+
+img {
+  border: 1px solid black;
+  box-shadow: 10px 10px 8px gray;
+  margin-bottom: 1em;
+}
